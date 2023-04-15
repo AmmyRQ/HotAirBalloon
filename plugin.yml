@@ -1,0 +1,11 @@
+name: HotAirBalloon
+author: AmmyRQ
+version: 1.0.0
+main: AmmyRQ\HotAirBalloon\Main
+api: 4.0.0
+permissions:
+  ahb.perm:
+    description: "Hot Air Balloon command."
+    default: op
+depend:
+  - FormAPI
